@@ -1,5 +1,8 @@
+var fs = require('fs');
+var food = JSON.parse(fs.readFileSync('./data/food.json','utf8'));
+
 const meals = (req, res) => {
-    res.render('meals', {title: 'Travlr Getaways'});
+    res.render('meals', {title: 'Travlr Getaways', food});
 }
 
 module.exports = {
