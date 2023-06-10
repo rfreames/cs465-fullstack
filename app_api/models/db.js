@@ -8,7 +8,8 @@ mongoose.set('useUnifiedTopology', true);
 const connect = () => {
   setTimeout(() => mongoose.connect(dbURI, { 
     useNewUrlParser: true, 
-    useCreateIndex: true 
+    useCreateIndex: true,
+    useFindAndModify: false 
   }), 1000);
 }
 
