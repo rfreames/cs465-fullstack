@@ -23,4 +23,4 @@ For this project, multiple endpoints were created for users to access the API. B
 
 * How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
 
-This course was a great intorduction to the MEAN stack. It was great developing with the MVC architecture and seeing how each part of the stack interacted to create a functioning web application. Given the MEAN stack's popularity and the overlapping tech with the MERN stack, this course gave me a great starting point to further my understanding and be a stronger candidate when applying to web development (or adjacent) roles.
+This course was a great introduction to the MEAN stack. It was great developing with the MVC architecture and seeing how each part of the stack interacted to create a functioning web application. Given the MEAN stack's popularity and the overlapping tech with the MERN stack, this course gave me a great starting point to further my understanding and be a stronger candidate when applying to web development (or adjacent) roles.
